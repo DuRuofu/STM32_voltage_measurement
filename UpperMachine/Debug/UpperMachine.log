@@ -1,0 +1,24 @@
+﻿生成启动时间为 2022/6/12 12:07:48。
+     1>项目“D:\xin\桌面\Work\面试题\面试题作答\作业代码\面试题代码（上位机） 1.0\UpperMachine1\UpperMachine\UpperMachine\UpperMachine.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\UpperMachine.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         所有输出均为最新。
+       ResourceCompile:
+         所有输出均为最新。
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         所有输出均为最新。
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\UpperMachine.exe.embed.manifest" /manifest Debug\UpperMachine.exe.intermediate.manifest "d:\Program Files (x86)\VC\Include\Manifest\dpiaware.manifest"
+         所有输出均为最新。
+       FinalizeBuildStatus:
+         正在删除文件“Debug\UpperMachine.unsuccessfulbuild”。
+         正在对“Debug\UpperMachine.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\xin\桌面\Work\面试题\面试题作答\作业代码\面试题代码（上位机） 1.0\UpperMachine1\UpperMachine\UpperMachine\UpperMachine.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.30
